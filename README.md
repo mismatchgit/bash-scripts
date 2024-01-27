@@ -1,4 +1,4 @@
-# bash-scripts
+# Bash-scripts
 ## This is For ubuntu users only
 ## For install-wp-madeEasy.sh
 ### Step 1:
@@ -17,7 +17,7 @@ In the terminal type this and press Enter:
 Enter your db name and project name.
 ###  Step 6:
 ###  Voila!!!!
-Open the link given at the last. It should be like: http://localhost/project name
+Open the link given at the last. It should be like: http://localhost/project_name
 
 ## For install-wordpress.sh
 ###  Step 1:
@@ -35,4 +35,4 @@ In the terminal type this and press Enter:
 Enter your Database name, Database password, Wordpress admin email, Wordpress user, Wordpress Password.
 ###  Step 6:
 ## Voila!!!!
-Open the link given at the last. It should be like: http://localhost/project name
+Open the link given at the last. It should be like: http://localhost/project_name
