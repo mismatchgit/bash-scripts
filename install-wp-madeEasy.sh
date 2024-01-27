@@ -11,9 +11,9 @@ read dbname
 echo
 #Enter Database Credentials below:
 #database username (eg. root/new_user etc)
-dbuser="root"
+dbuser="example_user"
 #database password
-dbpass="hemel@samadhan"
+dbpass="pass@123"
 echo "=============Creating Database==============="
 echo
 sudo mysql -u $dbuser -p$dbpass <<MYSQL_SCRIPT
@@ -29,11 +29,11 @@ echo -n "Project Name : "
 read sitename
 #Enter Database Credentials below: 
 #wp-admin email (your email)
-wpemail="refatishrakhemel.samadhan@gmail.com"
+wpemail="example2email.com"
 #wp-admin User Name : "
-wpuser="admin"
+wpuser="admin_user"
 #wp-admin Password : "
-wppass="admin@123"
+wppass="admin@password"
 echo "============================================"
 echo "Whole WordPress installation Process."
 echo "============================================"
